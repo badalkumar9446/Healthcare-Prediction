@@ -1,0 +1,19 @@
+Pokémon Explorer
+Overview
+Pokémon Explorer is a simple web application that integrates with the Pokémon API to display data about Pokémon. The app features a grid layout of the first 50 Pokémon and provides a search functionality to find specific Pokémon by their name.
+
+Features
+Display Pokémon List: Shows the first 50 Pokémon with their names and images.
+Search Pokémon: Allows users to search for a Pokémon by name.
+Error Handling: Displays appropriate messages for:
+API errors (e.g., failure to fetch data).
+Pokémon not found when searching.
+Technologies Used
+Frontend:
+
+HTML: Structure of the application.
+CSS: Styling and layout.
+JavaScript: API integration and dynamic content rendering.
+API:
+Pokémon API (https://pokeapi.co/docs/v2).
+
